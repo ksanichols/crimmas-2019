@@ -1,0 +1,4 @@
+echo "cd drive activated..."
+python3 twiddle.py
+echo ""
+./adventure/play.sh
