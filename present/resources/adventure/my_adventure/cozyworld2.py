@@ -206,7 +206,7 @@ def talk_to_engine_room_robot_before_helping(player, room):
     else:
         print("""
         The robot look up briefly from its
-        paper and then, seeing your are of obvious erudition
+        paper and then, seeing your air of obvious erudition
         and deep scholarship, sighs a sigh of profound relief.
 
         "Finally! Another artistic soul." """)
