@@ -423,9 +423,9 @@ link_rooms(cozy_room, space_hallway, "Through a little round door", ("hallway", 
            "You amble through the door...")
 
 link_rooms(space_hallway, storage_room, "Through a steel archway", ("storage room", "hallway"),
-           "You slip through the kitchen door...")
-link_rooms(space_hallway, engine_room, "Through a steel archway", ("engine room", "hallway"),
-           "You slip through the kitchen door...")
+           "You walk through the archway...")
+link_rooms(space_hallway, engine_room, "Through a little port", ("engine room", "hallway"),
+           "You crawl through the pot...")
 link_rooms(space_hallway, galley, "Through the kitchen door", ("kitchen", "hallway"),
            "You slip through the kitchen door...")
 link_rooms(space_hallway, piano_room, "From a spiral staircase", ("music room", "hallway"),
